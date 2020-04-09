@@ -1,0 +1,6 @@
+数据类型 存储模型 更新模型 访问模型l
+数字 Scalar 不可更改 直接访问
+字符串 Scalar 不可更改 顺序访问
+元组 Container 不可更改 顺序访问
+列表 Container 可更改 顺序访问
+字典 Container 可更改 映射访问
