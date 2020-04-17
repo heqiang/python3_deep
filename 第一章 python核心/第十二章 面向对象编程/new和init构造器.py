@@ -1,4 +1,4 @@
-class myClass:
+class myClass(object):
     def __new__(cls, *args, **kwargs):
         t=super().__new__(cls)
         print("new构造器:%d"% id(t))

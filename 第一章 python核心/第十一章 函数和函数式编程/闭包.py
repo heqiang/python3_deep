@@ -8,6 +8,7 @@
 def  average():
     series=[]
     def averager(new_average):
+        print("传进来的参数是：%d"%new_average)
         series.append(new_average)
         total=sum(series)
         return  total/len(series)
@@ -26,5 +27,5 @@ class  average(object):
         return total/len(self.seies)
 
 res1=average()
-print(res1(10))
-print(res1(11))
+# print(res1(10))
+# print(res1(11))

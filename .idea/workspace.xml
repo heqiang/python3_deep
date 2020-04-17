@@ -1,7 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b616ad1f-dbcb-4c41-8ff8-8873cf0f9c62" name="Default Changelist" comment="" />
+    <list default="true" id="b616ad1f-dbcb-4c41-8ff8-8873cf0f9c62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python 设计模式/单例模式/单例模式__new__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python 设计模式/单例模式/单例模式的理解及总结.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程爬取top250.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/__call__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/新式类的高级特性/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/特殊的实例属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/用特殊的方法定制类/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/类、实例和其他对象的内建函数/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第一章 python核心/迭代器与生成器/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/并发编程/启动和停止线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/mtsleepD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading 模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/守护线程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程优先级队列（Queue）.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程同步.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第七章  映像和集合类型/字典.md" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第七章  映像和集合类型/字典.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第七章  映像和集合类型/映射类型：字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第七章  映像和集合类型/映射类型：字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第九章 文件的输入与输出/ceshi.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/ceshi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第九章 文件的输入与输出/hhga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/hhga.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第九章 文件的输入与输出/os中path模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/os中path模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第九章 文件的输入与输出/第九章 文件的输入与输出.py" beforeDir="false" afterPath="$PROJECT_DIR$/python 设计模式/单例模式/使用类的单例模式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第九章 文件的输入与输出/练习.md" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/练习.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第五章 数字/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第五章 数字/ceshi.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第五章 数字/ceshi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第五章 数字/数字章节总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第五章 数字/数字章节总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第五章 数字/相关数字内建与工厂函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第五章 数字/相关数字内建与工厂函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/hhga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/8.1.1 迭代器和iter()函数/hhga.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/列表生成式.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/8.1.1 迭代器和iter()函数/列表生成式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/字典的迭代.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/8.1.1 迭代器和iter()函数/字典的迭代.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第八章 条件和循环/三元表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/三元表达式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/内建函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/内建函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/深拷贝和浅拷贝.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/深拷贝和浅拷贝.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十一章 函数和函数式编程/生成器.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/迭代器与生成器/生成器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十一章 函数和函数式编程/练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/第九章 文件的输入与输出.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十一章 函数和函数式编程/递归.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/递归.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十一章 函数和函数式编程/闭包.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/闭包.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/classmethod 和staticmethod.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/classmethod 和staticmethod.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/new和init构造器.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/new和init构造器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/super()函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/super()函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/单例模式类型.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/单例模式类型.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/多重继承 子类对父类方法的调用顺序.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/多重继承 子类对父类方法的调用顺序.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/子类重载父类init构造器.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/子类重载父类init构造器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__getattribute__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/新式类的高级特性/__getattribute__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/特殊的实例属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/用特殊的方法定制类/简单定制（RoundFloat）.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/用特殊的方法定制类/简单定制（RoundFloat）.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数/hasattr(), getattr(),setattr(), delattr().py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/类、实例和其他对象的内建函数/hasattr(), getattr(),setattr(), delattr().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/继承 被覆盖的基类的方法调用.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/继承 被覆盖的基类的方法调用.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十二章 面向对象编程/调用非绑定方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/调用非绑定方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十章 错误和异常/hhga.txt" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/hhga.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十章 错误和异常/上下文管理器 with open 实现原理.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/上下文管理器 with open 实现原理.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十章 错误和异常/基于类和生成器实现上下文管理器.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/基于类和生成器实现上下文管理器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十章 错误和异常/异常和sys模块.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/异常和sys模块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第十章 错误和异常/捕获所有的异常.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/捕获所有的异常.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第五章 数字/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/总结" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/总结" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/有序和无序集合.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/有序和无序集合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/标准类型运算符.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/标准类型运算符.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/测试.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/测试.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第四章 python 对象/章总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第四章 python 对象/章总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/迭代器与生成器/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/8.1.1 迭代器和iter()函数/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/迭代器与生成器/get_path.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/迭代器与生成器/get_path.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/迭代器与生成器/使用生成器创建新的迭代模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/第一章 python核心/迭代器与生成器/使用生成器创建新的迭代模式.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,22 +90,80 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py">
+        <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/单例模式__new__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="228">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#24#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/使用类的单例模式.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程爬取top250.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="51" column="44" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/测试.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/第二章 高级主题/并发编程/启动和停止线程.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-736035003/builtins.py">
+        <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/守护线程.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="5448" column="6" selection-start-line="5448" selection-start-column="6" selection-end-line="5448" selection-end-column="6" />
+            <state relative-caret-position="228">
+              <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/单例模式的理解及总结.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -46,44 +183,23 @@
       <find>'''</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/python 对象/测试.py" />
-        <option value="$PROJECT_DIR$/第五章 数字/相关数字内建与工厂函数.py" />
-        <option value="$PROJECT_DIR$/第五章 数字/数字章节总结.md" />
-        <option value="$PROJECT_DIR$/第五章 数字/ceshi.py" />
-        <option value="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/内建函数.py" />
-        <option value="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/深拷贝和浅拷贝.py" />
-        <option value="$PROJECT_DIR$/第六章 序列：字符串、列表和元组/字典.py" />
-        <option value="$PROJECT_DIR$/第四章 python 对象/有序和无序集合.py" />
-        <option value="$PROJECT_DIR$/第七章  映像和集合类型/映射类型：字典.py" />
-        <option value="$PROJECT_DIR$/第七章  映像和集合类型/字典.md" />
-        <option value="$PROJECT_DIR$/第七章  映像和集合类型/映射类型：字典.py" />
-        <option value="$PROJECT_DIR$/第八章 条件和循环/三元表达式.py" />
-        <option value="$PROJECT_DIR$/第八章 迭代器和iter()函数/字典的跌打.py" />
-        <option value="$PROJECT_DIR$/第八章 迭代器和iter()函数/字典的迭代.py" />
-        <option value="$PROJECT_DIR$/第八章 迭代器和iter()函数/hhga" />
-        <option value="$PROJECT_DIR$/第八章 迭代器和iter()函数/列表生成式.py" />
-        <option value="$PROJECT_DIR$/第九章 文件的输入与输出.py" />
-        <option value="$PROJECT_DIR$/第九章 文件的输入与输出/os中path模块.py" />
-        <option value="$PROJECT_DIR$/第九章 文件的输入与输出/hhga.txt" />
-        <option value="$PROJECT_DIR$/第九章 文件的输入与输出/ceshi.py" />
-        <option value="$PROJECT_DIR$/第九章 文件的输入与输出/练习.md" />
-        <option value="$PROJECT_DIR$/第十章 错误和异常/捕获所有的异常.py" />
         <option value="$PROJECT_DIR$/第十章 错误和异常/上下文管理器 with open.py" />
         <option value="$PROJECT_DIR$/第十章 错误和异常/上下文管理器 with open 实现原理.py" />
         <option value="$PROJECT_DIR$/第十章 错误和异常/基于类和生成器实现上下文管理器.py" />
         <option value="$PROJECT_DIR$/第十章 错误和异常/断言 assert.py" />
         <option value="$PROJECT_DIR$/第十章 错误和异常/异常和sys模块.py" />
-        <option value="$PROJECT_DIR$/测试.py" />
         <option value="$PROJECT_DIR$/第十一章 函数和函数式编程/闭包.py" />
         <option value="$PROJECT_DIR$/第十一章 函数和函数式编程/递归.py" />
         <option value="$PROJECT_DIR$/第十一章 函数和函数式编程/生成器.py" />
         <option value="$PROJECT_DIR$/第十一章 函数和函数式编程/练习.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/第十二章 面向对象编程.py" />
-        <option value="$PROJECT_DIR$/第十二章 面向对象编程/特殊的实例属性.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/单例模式类型.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/子类重载父类init构造器.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/调用非绑定方法.py" />
@@ -99,16 +215,41 @@
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__getattribute__.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和s__metaclass__.py" />
+        <option value="$PROJECT_DIR$/第十二章 面向对象编程/特殊的实例属性.py" />
+        <option value="$PROJECT_DIR$/第十二章 面向对象编程/meta.py" />
         <option value="$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程同步.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程优先级队列（Queue）.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading 模块.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/__call__.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/mtsleepD.py" />
+        <option value="$PROJECT_DIR$/多线程爬取图片.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/生成器.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/闭包.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/递归.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/ceshi.py" />
+        <option value="$PROJECT_DIR$/测试.py" />
+        <option value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/new和init构造器.py" />
+        <option value="$PROJECT_DIR$/python 设计模式.py" />
+        <option value="$PROJECT_DIR$/python 设计模式/单例模式.py" />
+        <option value="$PROJECT_DIR$/python 设计模式/单例模式/单例模式的理解" />
+        <option value="$PROJECT_DIR$/python 设计模式/单例模式/单例模式的理解.md" />
+        <option value="$PROJECT_DIR$/python 设计模式/单例模式/使用类的单例模式.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread 锁.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/并发编程/启动和停止线程.py" />
+        <option value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/守护线程.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="696" />
-    <option name="y" value="25" />
-    <option name="width" value="1302" />
-    <option name="height" value="983" />
+    <option name="x" value="580" />
+    <option name="y" value="50" />
+    <option name="width" value="1267" />
+    <option name="height" value="969" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -124,7 +265,19 @@
             <path>
               <item name="python_core_learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_core_learn" type="462c0819:PsiDirectoryNode" />
-              <item name="第十二章 面向对象编程" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章 高级主题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_core_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_core_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章 高级主题" type="462c0819:PsiDirectoryNode" />
+              <item name="并发编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_core_learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_core_learn" type="462c0819:PsiDirectoryNode" />
+              <item name="第二章 高级主题" type="462c0819:PsiDirectoryNode" />
+              <item name="第十八章 多线程编程" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,6 +287,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../BiYeSheJi/BS_Search" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -142,13 +296,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\pycharm\python_core_learn\第二章 高级主题" />
+      <recent name="F:\pycharm\python_core_learn\python 设计模式\单例模式" />
+      <recent name="F:\pycharm\python_core_learn\python 设计模式" />
+      <recent name="F:\pycharm\python_core_learn\第一章 python核心\迭代器与生成器" />
+      <recent name="F:\pycharm\python_core_learn\第一章 python核心" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\pycharm\python_core_learn\第十章 错误和异常" />
-      <recent name="F:\pycharm\python_core_learn\第九章 文件的输入与输出" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\pycharm\python_core_learn\第十二章 面向对象编程" />
-      <recent name="F:\pycharm\python_core_learn\第八章 条件和循环" />
       <recent name="F:\pycharm\python_core_learn\第九章 文件的输入与输出" />
     </key>
   </component>
@@ -164,8 +320,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.元类（Metaclass）和__metaclass__">
-    <configuration name="元类（Metaclass）和__metaclass__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.守护线程">
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -173,12 +329,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十二章 面向对象编程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -187,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="简单定制（RoundFloat）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="守护线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,34 +351,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十二章 面向对象编程/用特殊的方法定制类" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/用特殊的方法定制类/简单定制（RoundFloat）.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_core_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十一章 函数和函数式编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十一章 函数和函数式编程/闭包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/守护线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,6 +409,72 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_deep_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 对象/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="标准类型运算符" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_deep_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 对象/标准类型运算符.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="有序和无序集合" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第四章 python 对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第四章 python 对象/有序和无序集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="相关数字内建与工厂函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_deep_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,6 +519,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="单例模式类型" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/单例模式类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用类的单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 设计模式/单例模式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 设计模式/单例模式/使用类的单例模式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="字典的迭代" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,6 +577,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第八章 迭代器和iter()函数/字典的迭代.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="启动和停止线程" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 高级主题/并发编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 高级主题/并发编程/启动和停止线程.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -364,19 +630,41 @@
       <method v="2" />
     </configuration>
     <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_deep_learn" />
+      <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 对象" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 对象/测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="多线程爬取图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程爬取图片.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -399,28 +687,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="标准类型运算符" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_deep_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 对象" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python 对象/标准类型运算符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -517,6 +783,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="多线程爬取图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多线程爬取图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="调用非绑定方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -531,6 +819,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/调用非绑定方法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="闭包" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十一章 函数和函数式编程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十一章 函数和函数式编程/闭包.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -575,6 +885,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第八章 迭代器和iter()函数/列表生成式.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="单例模式" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python 设计模式" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\pycharm\python_core_learn\python 设计模式\单例模式\单例模式__new__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_core_learn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -649,7 +1003,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__slot__类属性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="new和init构造器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -657,12 +1011,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/new和init构造器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -671,7 +1025,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hasattr(), getattr(),setattr(), delattr()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="thread 锁" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_core_learn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -679,34 +1033,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数/hasattr(), getattr(),setattr(), delattr().py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="super()函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_core_learn" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第十二章 面向对象编程" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第十二章 面向对象编程/super()函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread 锁.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -717,11 +1049,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.元类（Metaclass）和__metaclass__" />
-        <item itemvalue="Python.__slot__类属性" />
-        <item itemvalue="Python.简单定制（RoundFloat）" />
-        <item itemvalue="Python.hasattr(), getattr(),setattr(), delattr()" />
-        <item itemvalue="Python.super()函数" />
+        <item itemvalue="Python.守护线程" />
+        <item itemvalue="Python.thread 锁" />
+        <item itemvalue="Python.new和init构造器" />
+        <item itemvalue="Python.测试" />
       </list>
     </recent_temporary>
   </component>
@@ -753,33 +1084,43 @@
       <workItem from="1586218190406" duration="11881000" />
       <workItem from="1586258407494" duration="701000" />
       <workItem from="1586310575456" duration="9076000" />
-      <workItem from="1586390922777" duration="8598000" />
+      <workItem from="1586390922777" duration="15707000" />
+      <workItem from="1586480761280" duration="4265000" />
+      <workItem from="1586574191905" duration="5471000" />
+      <workItem from="1586652465556" duration="12989000" />
+      <workItem from="1586737722462" duration="17106000" />
+      <workItem from="1586772807841" duration="7161000" />
+      <workItem from="1586822770663" duration="6554000" />
+      <workItem from="1586909217389" duration="10049000" />
+      <workItem from="1586945871196" duration="607000" />
+      <workItem from="1587082609315" duration="3511000" />
+      <workItem from="1587093781322" duration="2573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106098000" />
+    <option name="totallyTimeSpent" value="183493000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="361" y="22" width="1174" height="786" extended-state="0" />
+    <frame x="464" y="40" width="1013" height="775" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8502994" visible="true" weight="0.26702508" />
-      <window_info id="Structure" order="1" sideWeight="0.1497006" side_tool="true" visible="true" weight="0.26702508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7892562" visible="true" weight="0.24188481" />
+      <window_info id="Structure" order="1" sideWeight="0.2107438" side_tool="true" weight="0.29153925" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2351145" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3080292" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2021773" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27631578" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298351" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.28898427" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="11" weight="0.49775112" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.28785607" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -791,77 +1132,131 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_core_learn$Queue.coverage" NAME="线程优先级队列（Queue） Coverage Results" MODIFIED="1586695620819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
+    <SUITE FILE_PATH="coverage/python_deep_learn$.coverage" NAME="三元表达式 Coverage Results" MODIFIED="1585279399755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第八章 条件和循环" />
+    <SUITE FILE_PATH="coverage/python_core_learn$ospath.coverage" NAME="os中path模块 Coverage Results" MODIFIED="1585796027526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第九章 文件的输入与输出" />
+    <SUITE FILE_PATH="coverage/python_core_learn$hasattr____getattr___setattr____delattr__.coverage" NAME="hasattr(), getattr(),setattr(), delattr() Coverage Results" MODIFIED="1586396394074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数" />
+    <SUITE FILE_PATH="coverage/python_deep_learn$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1585188136946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章 数字" />
+    <SUITE FILE_PATH="coverage/python_core_learn$.coverage" NAME="守护线程 Coverage Results" MODIFIED="1587094302855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$_assert.coverage" NAME="断言 assert Coverage Results" MODIFIED="1585812009323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十章 错误和异常" />
+    <SUITE FILE_PATH="coverage/python_core_learn$___1_.coverage" NAME="第十二章 面向对象编程 (1) Coverage Results" MODIFIED="1586090153415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$thread.coverage" NAME="thread Coverage Results" MODIFIED="1586739127760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
     <SUITE FILE_PATH="coverage/python_deep_learn$get_path.coverage" NAME="get_path Coverage Results" MODIFIED="1584951628543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/迭代器与生成器" />
     <SUITE FILE_PATH="coverage/python_core_learn$init.coverage" NAME="子类重载父类init构造器 Coverage Results" MODIFIED="1586247412377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$_.coverage" NAME="继承 被覆盖的基类的方法调用 Coverage Results" MODIFIED="1586314159163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
-    <SUITE FILE_PATH="coverage/python_deep_learn$.coverage" NAME="三元表达式 Coverage Results" MODIFIED="1585279399755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第八章 条件和循环" />
+    <SUITE FILE_PATH="coverage/python_core_learn$thread_.coverage" NAME="thread 锁 Coverage Results" MODIFIED="1587084021971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1585798229264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第九章 文件的输入与输出" />
     <SUITE FILE_PATH="coverage/python_core_learn$sys.coverage" NAME="异常和sys模块 Coverage Results" MODIFIED="1585815867199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十章 错误和异常" />
-    <SUITE FILE_PATH="coverage/python_core_learn$ospath.coverage" NAME="os中path模块 Coverage Results" MODIFIED="1585796027526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第九章 文件的输入与输出" />
-    <SUITE FILE_PATH="coverage/python_core_learn$hasattr____getattr___setattr____delattr__.coverage" NAME="hasattr(), getattr(),setattr(), delattr() Coverage Results" MODIFIED="1586396394074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数" />
+    <SUITE FILE_PATH="coverage/python_core_learn$meta.coverage" NAME="meta Coverage Results" MODIFIED="1586654105824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$__call__.coverage" NAME="__call__ Coverage Results" MODIFIED="1586766326046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$mtsleepD.coverage" NAME="mtsleepD Coverage Results" MODIFIED="1586767856400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$__slot__.coverage" NAME="__slot__类属性 Coverage Results" MODIFIED="1586398839610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性" />
     <SUITE FILE_PATH="coverage/python_core_learn$RoundFloat.coverage" NAME="简单定制（RoundFloat） Coverage Results" MODIFIED="1586397344134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程/用特殊的方法定制类" />
-    <SUITE FILE_PATH="coverage/python_deep_learn$ceshi.coverage" NAME="ceshi Coverage Results" MODIFIED="1585188136946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第五章 数字" />
+    <SUITE FILE_PATH="coverage/python_core_learn$threading_.coverage" NAME="threading 模块 Coverage Results" MODIFIED="1586741536520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$classmethod_staticmethod.coverage" NAME="classmethod 和staticmethod Coverage Results" MODIFIED="1586311735191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$super__.coverage" NAME="super()函数 Coverage Results" MODIFIED="1586332880022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
-    <SUITE FILE_PATH="coverage/python_core_learn$.coverage" NAME="组合 Coverage Results" MODIFIED="1586313558344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
     <SUITE FILE_PATH="coverage/python_core_learn$_with_open.coverage" NAME="上下文管理器 with open Coverage Results" MODIFIED="1585809695455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十章 错误和异常" />
-    <SUITE FILE_PATH="coverage/python_core_learn$_assert.coverage" NAME="断言 assert Coverage Results" MODIFIED="1585812009323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十章 错误和异常" />
-    <SUITE FILE_PATH="coverage/python_core_learn$___1_.coverage" NAME="第十二章 面向对象编程 (1) Coverage Results" MODIFIED="1586090153415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
-    <SUITE FILE_PATH="coverage/python_core_learn$Metaclass__metaclass__.coverage" NAME="元类（Metaclass）和__metaclass__ Coverage Results" MODIFIED="1586402768804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
-    <SUITE FILE_PATH="coverage/python_core_learn$newinit.coverage" NAME="new和init构造器 Coverage Results" MODIFIED="1586330134732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$threading.coverage" NAME="threading Coverage Results" MODIFIED="1586692247399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$Metaclass__metaclass__.coverage" NAME="元类（Metaclass）和__metaclass__ Coverage Results" MODIFIED="1586654016250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第十二章 面向对象编程" />
+    <SUITE FILE_PATH="coverage/python_core_learn$newinit.coverage" NAME="new和init构造器 Coverage Results" MODIFIED="1586914135565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/标准类型运算符.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/捕获所有的异常.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python 对象/4.4练习.py" />
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/总结">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/上下文管理器 with open 实现原理.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="304">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/章总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="456">
-            <caret line="24" column="68" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/测试.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/基于类和生成器实现上下文管理器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="13" selection-end-line="14" />
+        <state relative-caret-position="399">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第四章 python 对象/有序和无序集合.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十章 错误和异常/异常和sys模块.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第七章  映像和集合类型/映射类型：字典.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/8.1.1 迭代器和iter()函数/列表生成式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第八章 条件和循环/三元表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/多重继承.py" />
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/多重继承 子类对父类方法的调用顺序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/类、实例和其他对象的内建函数/hasattr(), getattr(),setattr(), delattr().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/子类重载父类init构造器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/继承 被覆盖的基类的方法调用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-736035003/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="5448" column="6" selection-start-line="5448" selection-start-column="6" selection-end-line="5448" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程同步.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第七章  映像和集合类型/映射类型：字典.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第七章  映像和集合类型/字典.md">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第七章  映像和集合类型/字典.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="19">
@@ -871,282 +1266,276 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第五章 数字/相关数字内建与工厂函数.py">
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/特殊的实例属性.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第五章 数字/数字章节总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第六章 序列：字符串、列表和元组/内建函数.py">
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/线程优先级队列（Queue）.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        <state relative-caret-position="279">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第六章 序列：字符串、列表和元组/深拷贝和浅拷贝.py">
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/mtsleepD.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state relative-caret-position="179">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第六章 序列：字符串、列表和元组/字典.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/__call__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python3.6.5/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="257" column="31" selection-start-line="257" selection-start-column="23" selection-end-line="257" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/threading 模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/深拷贝和浅拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第六章 序列：字符串、列表和元组/字典.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第五章 数字/ceshi.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/练习.py" />
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/迭代器与生成器/生成器.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="843">
+          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第八章 迭代器和iter()函数/hhga" />
-    <entry file="file://$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/字典的迭代.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/hhga.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章 文件的输入与输出/hhga.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" lean-forward="true" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章 文件的输入与输出/ceshi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章 文件的输入与输出/练习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="269">
-            <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章 文件的输入与输出/os中path模块.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第九章 文件的输入与输出/第九章 文件的输入与输出.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十章 错误和异常/hhga.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十章 错误和异常/捕获所有的异常.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十章 错误和异常/上下文管理器 with open 实现原理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十章 错误和异常/基于类和生成器实现上下文管理器.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/迭代器与生成器/使用生成器创建新的迭代模式.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第十章 错误和异常/异常和sys模块.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/classmethod 和staticmethod.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第八章 条件和循环/8.1.1 迭代器和iter()函数/列表生成式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="15" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第八章 条件和循环/三元表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一章 函数和函数式编程/闭包.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一章 函数和函数式编程/递归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一章 函数和函数式编程/生成器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十一章 函数和函数式编程/练习.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/多重继承.py" />
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/new和init构造器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/super()函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/单例模式类型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/特殊的实例属性.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/调用非绑定方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/多重继承 子类对父类方法的调用顺序.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/类、实例和其他对象的内建函数/hasattr(), getattr(),setattr(), delattr().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/用特殊的方法定制类/简单定制（RoundFloat）.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__getattribute__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="34" lean-forward="true" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/子类重载父类init构造器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/继承 被覆盖的基类的方法调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/classmethod 和staticmethod.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="240">
           <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/第十二章 面向对象编程/元类（Metaclass）和__metaclass__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="357">
+          <caret line="91" column="8" lean-forward="true" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-736035003/builtins.py">
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第九章 文件的输入与输出/ceshi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="5448" column="6" selection-start-line="5448" selection-start-column="6" selection-end-line="5448" selection-end-column="6" />
+        <state relative-caret-position="342">
+          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第四章 python 对象/有序和无序集合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/新式类的高级特性/__getattribute__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/新式类的高级特性/__slot__类属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/调用非绑定方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/用特殊的方法定制类/简单定制（RoundFloat）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/meta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/单例模式类型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/递归.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十一章 函数和函数式编程/闭包.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/new和init构造器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第一章 python核心/第十二章 面向对象编程/super()函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/thread 锁.py" />
+    <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/单例模式__new__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/使用类的单例模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程爬取top250.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="44" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/并发编程/启动和停止线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python 设计模式/单例模式/单例模式的理解及总结.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第二章 高级主题/第十八章 多线程编程/守护线程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

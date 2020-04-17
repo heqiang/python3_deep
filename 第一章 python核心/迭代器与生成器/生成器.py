@@ -37,5 +37,15 @@ for x in range(3):
     t.send(x)
 t.close()
 
+temp=set()
+def test():
+    while 1:
+        a=yield
+        temp.add(a)
 
-
+t=test()
+#或者 next(t)
+t.send(None)
+for x  in range(5):
+    t.send(x)
+print(temp)

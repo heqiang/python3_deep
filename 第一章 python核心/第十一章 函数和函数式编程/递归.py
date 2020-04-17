@@ -4,7 +4,7 @@ def fib(num):
     count=2
     print(n0,n1,end=',')
     while count < num:
-        next=n0+n1
+        next = n0+n1
         print(next,end=',')
         n0=n1
         n1=next
@@ -19,3 +19,12 @@ def jiecheng(num):
         return num*jiecheng((num-1))
 res=jiecheng(5)
 print(res)
+
+
+def fib_gen(num):
+    n,a,b=0,0,1
+    while a<num:
+        yield b
+        a,b=b,a+b
+        n+=1
+print([x for x in fib_gen(10)])
